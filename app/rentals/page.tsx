@@ -1,9 +1,5 @@
-import React from 'react'
-
 const RentalsPage = () => {
-  return (
-    <div>RentalsPage</div>
-  )
-}
+  return <div>RentalsPage</div>;
+};
 
-export default RentalsPage
+export default RentalsPage;
